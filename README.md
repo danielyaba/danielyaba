@@ -21,7 +21,7 @@
 | Languages | <img style="margin: 10px" src="https://www.svgrepo.com/show/373999/powershell2.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/452091/python.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/508897/bash02.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/448253/terraform.svg" alt="HTML5" height="50" /> | Work and Personal interest
 | :---: | :---: | :---: |
 | DevOps | <img style="margin: 10px" src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="HTML5" height="50" />  <img style="margin: 10px" src="https://www.svgrepo.com/show/448236/linux.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/448221/docker.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/448253/terraform.svg" alt="HTML5" height="50" /> | Work and Personal interest
-| Clouds | <img style="margin: 10px" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/376356/aws.svg" alt="HTML5" height="50" /> | Work and Personal interes
+| Clouds | <img style="margin: 10px" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="HTML5" height="50" /> | Work and Personal interes
 
 <br>
 
