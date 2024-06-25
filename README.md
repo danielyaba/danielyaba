@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning `Python` 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="18">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 🥷 DevOps engineering and development<br>
-&nbsp; ∘ &nbsp; ☁ Cloud architecture and IT Infrastructure related Projects<br>
-&nbsp; ∘ &nbsp; 🤖 Automation & Scripint<br>
-- 💬 Ask me about Terraform(HCL), Cloud, Bash, Python, Security, Networking, IT
+&nbsp; ∘ &nbsp; ☁ Cloud architecture and IT Infrastructure related projects<br>
+&nbsp; ∘ &nbsp; 🤖 Automation & scripting<br>
+- 💬 Ask me about Terraform(HCL), Cloud, Bash, Python, Security, Networking, IT, Kubernetes, Helm,  Dockers
 - 🎉 Fun-Fact: I ❤️ Dogs and Crossfit.
   
 <br>
