@@ -16,7 +16,7 @@
   
 <br>
 
-## ⚙️ Some Tools and Tech I use
+## ⚙️ Some Tools and Tech I Use
 
 | Languages | <img style="margin: 10px" src="https://www.svgrepo.com/show/373999/powershell2.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/452091/python.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/508897/bash02.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://www.svgrepo.com/show/448253/terraform.svg" alt="HTML5" height="50" /> | Work and Personal interest
 | :---: | :---: | :---: |
